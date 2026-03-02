@@ -1,0 +1,9 @@
+{
+    "xs"            : 0.311,
+    "humedad"       : 0.6887,
+    "fibra"         : 0.0000,
+    "lipidos"       : 0.0000,
+    "cenizas"       : 0.0341,
+    "proteinas"     : 0.0672 ,
+    "carbohidratos" : 0.2100
+}
