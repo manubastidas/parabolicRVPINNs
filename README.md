@@ -4,9 +4,9 @@ This repository contains the code and data to reproduce the numerical experiment
 We solve the 1D non-linear heat equation with temperature-dependent thermophysical parameters and data-driven boundary conditions.
 
 ## Structure
-* `src/`: Model implementations (RVPINN). 
-* `notebooks/`: Interactive notebooks to train models and reproduce paper figures.
+* `src/`: Model implementations (RVPINN) and notebooks to train models and reproduce the results.
 * `data/`: Experimental temperature data and material parameters.
+* 'figs/': The figures in the paper.
 
 ## Requirements
 * Python 3.10+
